@@ -2,11 +2,11 @@
 
 A responsive, single-page portfolio inspired by the supplied reference video: black editorial layout, oversized red outline title, red nameplate, project archive, skills matrix and contact section.
 
-## Run locally
+## Run locally.
 
-Open `index.html` in a browser. No build step is required.
+Open `index.html` in a browser. No build step is required .
 
-## Deploy
+## Deploy.
 
 Import this folder/repository into Vercel as a static site, or drag the folder into a static hosting provider.
 
